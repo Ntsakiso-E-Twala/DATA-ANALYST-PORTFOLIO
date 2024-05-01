@@ -1,3 +1,4 @@
+![Uploading HR analysis.png…]()
 # NTSAKISO E.TWALA DATA-ANALYST-PORTFOLIO 
 
 ## SQL PROJECTS
