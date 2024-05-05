@@ -2,7 +2,7 @@
 
 I am a data analyst with experience in using various tools and technologies to collect, organize, and analyze data to inform business decisions. I am proficient in SQL, Excel, Power BI and have a solid understanding of data analytics techniques such as dashboard building, report writing, data mining, data merging, statistics, and critical thinking.
 
-I have expertise in Business Intelligence (BI): Over the past 3 years in the field, I have honed my skills in extracting, transforming, and loading (ETL) data, ensuring its accuracy and relevance. My proficiency in BI tools such as Tableau and Power BI has empowered organizations to make data-driven decisions.
+I have expertise in Business Intelligence (BI): Over the past 4 years in the field, I have honed my skills in extracting, transforming, and loading (ETL) data, ensuring its accuracy and relevance. My proficiency in BI tools such as Tableau and Power BI has empowered organizations to make data-driven decisions.
 
 SQL Mastery: Proficient in SQL, I can navigate through vast datasets efficiently. My expertise extends to writing complex queries and ensuring data integrity throughout the analysis process.
 
